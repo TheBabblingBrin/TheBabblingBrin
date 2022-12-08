@@ -7,7 +7,7 @@
 [![GitHub Brin](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/TheBabblingBrin)
 
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://res.cloudinary.com/degkakjou/image/upload/v1670457971/output-onlinegiftools_hcwvrc.gif)" width="50"> A little more about me...  
+### <img src="[htps://res.cloudinary.com/degkakjou/image/upload/v1670457971/output-onlinegiftools_hcwvrc.gif]width="50"> A little more about me...  
 
 ```javascript
 const brin = {
