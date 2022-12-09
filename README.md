@@ -20,7 +20,7 @@ const brin = {
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
   challenge: "Currently pushing myself to learn docker, Google Maps API, and AWS API",
   hobbies: [web development, dungeons and dragons, hiking, video games],
-  background: {Full-time Dad: 8yrs, USAF Veteran: 8 yrs, Coding: 1yr] 
+  background: {Full-time Dad: 8yrs, USAF Veteran: 8yrs, Coding: 1yr}
 }
 ```
 
