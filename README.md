@@ -18,7 +18,7 @@ const brin = {
   status: 'Job Searching',
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
-  challenge: "Currently pushing myself to learn docker, Google Maps API, and AWS API",
+  challenge: "Studying for AWS Cloud Practitioner and learning Typescript through executeprogram ",
   hobbies: [web development, dungeons and dragons, hiking, video games],
   background: {Full-time Dad: 8yrs, USAF Veteran: 8yrs, Coding: 1yr}
 }
