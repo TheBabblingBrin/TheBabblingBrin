@@ -1,7 +1,7 @@
 <h2> Hi, I'm Brin Hoover! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://res.cloudinary.com/degkakjou/image/upload/v1670457971/output-onlinegiftools_hcwvrc.gif" width="230">
 <p><em>Implementation Specialist at <a href="https://droplet.io/">Droplet</a><img src="https://res.cloudinary.com/degkakjou/image/upload/v1677358789/droplet_dit9yj.png" width="30">
-<p><em>Software Engineer Graduate from <a href="https://www.appacademy.io/">App Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Engineer Graduate from <a href="https://www.appacademy.io/">App Academy </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
@@ -16,10 +16,10 @@
 ```javascript
 const brin = {
   pronouns: "they" | "them",
-  status: 'Job Searching',
+  status: 'Technical Implementation Specialist',
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
-  challenge: "Studying for AWS Cloud Practitioner and learning Typescript through executeprogram ",
+  challenge: "Studying for AWS Cloud Practitioner and learning Typescript through executeprogram",
   hobbies: [web development, dungeons and dragons, hiking, video games],
   background: {Full-time Dad: 8yrs, USAF Veteran: 8yrs, Coding: 1yr}
 }
