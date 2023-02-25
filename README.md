@@ -1,5 +1,6 @@
 <h2> Hi, I'm Brin Hoover! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://res.cloudinary.com/degkakjou/image/upload/v1670457971/output-onlinegiftools_hcwvrc.gif" width="230">
+<p><em>Implementation Specialist at <a href="https://droplet.io/">Droplet</a><img src="https://res.cloudinary.com/degkakjou/image/upload/v1677358375/bqzlrgtemewkn5ry3wgq_brcp3i.avif" width="30">
 <p><em>Software Engineer Graduate from <a href="https://www.appacademy.io/">App Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
