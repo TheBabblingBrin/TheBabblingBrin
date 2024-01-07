@@ -15,7 +15,7 @@
 
 ```javascript
 const brin = {
-  pronouns: "they" | "them",
+  pronouns: "she" | "they",
   status: 'Technical Implementation Specialist',
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
