@@ -21,7 +21,7 @@ const brin = {
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
   challenge: "Studying for AWS Cloud Practitioner and learning Typescript through executeprogram",
   hobbies: [web development, live music, DnD, hiking],
-  background: {Full-time Dad: 8yrs, USAF Veteran: 8yrs, Coding: 1yr}
+  background: {Full-time Parent: 9yrs, USAF Veteran: 8yrs, Coding: 1yr}
 }
 ```
 
