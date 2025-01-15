@@ -16,10 +16,10 @@
 ```javascript
 const brin = {
   pronouns: "she" | "they",
-  status: 'Full-time Studen',
+  status: 'Full-time Student',
   code: [Javascript, HTML, CSS, Python, SQL],
   tools: [React, Redux, Node, Flask, Express, SQLAlchemy, SQLite3],
-  challenge: "Pursuing formal education via an A.A in Computer Programming & Analyssi",
+  challenge: "Pursuing formal education via an A.A in Computer Programming & Analysis",
   hobbies: [web development, live music, DnD, hiking],
   background: {Full-time Parent: 10yrs, USAF Veteran: 8yrs, Coding: 2yrs}
 }
